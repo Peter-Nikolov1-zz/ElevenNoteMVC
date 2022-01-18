@@ -1,0 +1,16 @@
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
