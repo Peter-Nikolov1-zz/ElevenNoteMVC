@@ -14,3 +14,6 @@ C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\D
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedIsStarredColumn.resources
