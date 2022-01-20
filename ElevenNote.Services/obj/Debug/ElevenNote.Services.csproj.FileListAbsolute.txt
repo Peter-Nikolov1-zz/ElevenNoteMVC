@@ -20,3 +20,11 @@ C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\b
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml

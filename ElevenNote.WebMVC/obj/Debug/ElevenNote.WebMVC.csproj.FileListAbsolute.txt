@@ -115,3 +115,9 @@ C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
