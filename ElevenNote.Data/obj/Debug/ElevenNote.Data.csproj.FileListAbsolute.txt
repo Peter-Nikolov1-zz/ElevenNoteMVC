@@ -14,3 +14,14 @@ C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\D
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedIsStarredColumn.resources
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\Users\nikol\OneDrive\Desktop\RedBadge\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
