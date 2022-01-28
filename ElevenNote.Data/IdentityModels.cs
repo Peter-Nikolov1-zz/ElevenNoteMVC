@@ -46,6 +46,8 @@ namespace ElevenNote.WebMVC.Data
                 .Add(new IdentityUserLoginConfiguration())
                 .Add(new IdentityUserRoleConfiguration());
         }
+
+        public System.Data.Entity.DbSet<ElevenNote.WebMVC.Data.ApplicationUser> ApplicationUsers { get; set; }
     }
 
     public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
